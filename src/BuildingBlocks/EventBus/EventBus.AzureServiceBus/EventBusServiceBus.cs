@@ -63,6 +63,7 @@ namespace EventBus.AzureServiceBus
             //T:IntegrationEvent, TH:IIntegrationEventHandler
             //SubscriptionManager yardımı ile bir event e subscribe olunur.
             var eventName = typeof(T).Name;
+            eventName = ProcessEventName(eventName);
             if (!SubsManager.HasSubscriptionsForEvent(eventName))//subs yok ise...
             {
                 var subscriptionClient = CreateClientSubscriptionClientIfNotExist(eventName);
