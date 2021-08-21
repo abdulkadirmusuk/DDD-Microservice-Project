@@ -3,9 +3,7 @@ using EventBus.Base.SubManagers;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace EventBus.Base.Event
@@ -15,11 +13,11 @@ namespace EventBus.Base.Event
         public readonly IServiceProvider ServiceProvider;
         public readonly IEventBusSubscriptionManager SubsManager;
 
-        private EventBusConfig eventBusConfig;
+        public EventBusConfig EventBusConfig { get; set; } //Dışarıdan gelecek config özellikleri
 
         public BaseEventBus(EventBusConfig config, IServiceProvider serviceProvider)
         {
-            eventBusConfig = config;
+            EventBusConfig = config;
             ServiceProvider = serviceProvider;
             SubsManager = new InMemoryEventBusSubscriptionManager(ProcessEventName); //Subscription inmemory olarak set edilmiş. Başka bir tür geldiğinde bu değişecektir.
         }
@@ -27,11 +25,11 @@ namespace EventBus.Base.Event
         public virtual string ProcessEventName(string eventName)
         {
             //event name verirken başından veya sonundan trim etmek için kullanılrı
-            if (eventBusConfig.DeleteEventPrefix)
-                eventName = eventName.TrimStart(eventBusConfig.EventNamePrefix.ToArray());
+            if (EventBusConfig.DeleteEventPrefix)
+                eventName = eventName.TrimStart(EventBusConfig.EventNamePrefix.ToArray());
 
-            if (eventBusConfig.DeleteEventSuffix)
-                eventName = eventName.TrimStart(eventBusConfig.EventNameSuffix.ToArray());
+            if (EventBusConfig.DeleteEventSuffix)
+                eventName = eventName.TrimStart(EventBusConfig.EventNameSuffix.ToArray());
 
             return eventName;
         }
@@ -40,12 +38,13 @@ namespace EventBus.Base.Event
         {
             //Örn : NotificationService.OrderCreatedIntegrationEvent şeklinde bir subscription name döner
             //Örn : NotificationService.OrderCreated da olabilir suffix den kırpılacaksa. Bu bizim queue name olacak
-            return $"{eventBusConfig.SubscriberClientAppName}.{ProcessEventName(eventName)}";
+            return $"{EventBusConfig.SubscriberClientAppName}.{ProcessEventName(eventName)}";
         }
 
         public virtual void Dispose()
         {
-            eventBusConfig = null;
+            EventBusConfig = null;
+            SubsManager.Clear();
         }
 
         public async Task<bool> ProcessEvent(string eventName, string message)
@@ -66,7 +65,7 @@ namespace EventBus.Base.Event
                         var handler = ServiceProvider.GetService(subscription.HandleType); //Örn : OrderIntegrationEventHandler ı bana ver demektir. 
                         if (handler == null) continue;
 
-                        var eventType = SubsManager.GetEventTypeByName($"{eventBusConfig.EventNamePrefix}{eventName}{eventBusConfig.EventNameSuffix}");
+                        var eventType = SubsManager.GetEventTypeByName($"{EventBusConfig.EventNamePrefix}{eventName}{EventBusConfig.EventNameSuffix}");
                         var integrationEvent = JsonConvert.DeserializeObject(message, eventType);
                         var concreteType = typeof(IIntegrationEventHandler<>).MakeGenericType(eventType);
                         await (Task)concreteType.GetMethod("Handle").Invoke(handler, new object[] { integrationEvent }); //Gelen eventin türüne göre dinamik olarak handle methodu çalışır
