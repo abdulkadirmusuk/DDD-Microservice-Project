@@ -1,0 +1,12 @@
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.deps.json
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.dll
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\ref\OrderService.Application.dll
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.pdb
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb
