@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Beu6Hjvi6/p/PmuX5zI3Y+ezJSRCpsjyKR2G2g3UThDNrX/fY5r9TimhK2Nr+EfipPdPq7yHrrIqRHN+MxV0Lw==",
+  "dgSpecHash": "ab42yWzbJboD1kaFu4aWStM6VC1V4gWbxZg/psPCMzmijA8UKLq+Ev2f2wxTyxCaPe6yCXR9cCKdUZ2sLNgAfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\abdul\\source\\repos\\SellingProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [

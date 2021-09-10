@@ -2,11 +2,14 @@ C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.dll
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.dll
+C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.pdb
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.AssemblyReference.cache
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfo.cs
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.CopyComplete
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.dll
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
 C:\Users\abdul\source\repos\SellingProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.pdb

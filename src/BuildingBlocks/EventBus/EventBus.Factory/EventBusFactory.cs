@@ -15,8 +15,8 @@ namespace EventBus.Factory
             return config.EventBusType switch
             {
                 EventBusType.AzureServiceBus => new EventBusServiceBus(config, serviceProvider),
-                _ => new EventBusRabbitMQ(config, serviceProvider)};
-            }
+                _ => new EventBusRabbitMQ(config, serviceProvider)
+            };
         }
     }
 }

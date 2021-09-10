@@ -2,7 +2,6 @@ C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderServic
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.dll
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\ref\OrderService.Infrastructure.dll
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.pdb
-C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfo.cs
