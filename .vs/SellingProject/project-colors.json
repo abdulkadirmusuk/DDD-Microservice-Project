@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "670b66b0-d9a9-4d14-8460-1d22883bca71": {
+      "ProjectGuid": "670b66b0-d9a9-4d14-8460-1d22883bca71",
+      "DisplayName": "EventBus.Base",
+      "ColorIndex": 0
+    },
+    "dd2c0b66-ea25-480c-8156-496d2f532978": {
+      "ProjectGuid": "dd2c0b66-ea25-480c-8156-496d2f532978",
+      "DisplayName": "PaymentService.Api",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "efb4a59e-d1b7-4c0d-be48-fdbe20c9dd67": {
+      "ProjectGuid": "efb4a59e-d1b7-4c0d-be48-fdbe20c9dd67",
+      "DisplayName": "EventBus.Factory",
+      "ColorIndex": 2
+    },
+    "bde1dedf-8d54-42a4-af56-e8071121de00": {
+      "ProjectGuid": "bde1dedf-8d54-42a4-af56-e8071121de00",
+      "DisplayName": "NotificationService",
+      "ColorIndex": 3
+    },
+    "631fa503-e006-458b-83f9-111b826c8391": {
+      "ProjectGuid": "631fa503-e006-458b-83f9-111b826c8391",
+      "DisplayName": "EventBus.RabbitMQ",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

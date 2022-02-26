@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6W40WxSogE/o2FYqMrnHQWYezA6m8b3vdUfe8cU87Mfd/z7OWgP/PY6LCLFqQVpX/P/iMMYa1AtHZKAnWXFEWQ==",
+  "dgSpecHash": "7i3Gy03qIeGfBhxoPIOCOlM8a/GNQgMIz7/dm55V1i2YbTIRTfCeqZNHZh/Lo8M2xCsGLJSdAJKJvKuvdPlgCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\abdul\\source\\repos\\SellingProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [

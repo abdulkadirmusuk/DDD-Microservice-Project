@@ -11,7 +11,6 @@ C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\Identity
 C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.csproj.AssemblyReference.cache
 C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.AssemblyInfoInputs.cache
 C:\Users\abdul\source\repos\SellingProject\src\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.AssemblyInfo.cs

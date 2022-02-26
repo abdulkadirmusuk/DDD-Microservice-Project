@@ -47,7 +47,7 @@ namespace CatalogService.Api.Infrastructure.Context
 
             if (!context.CatalogItems.Any())
             {
-                await context.CatalogItems.AddRangeAsync(GetCatalogItemPictures(setupDirPath,context));
+                //await context.CatalogItems.AddRangeAsync(GetCatalogItemPictures(setupDirPath,context));
                 await context.SaveChangesAsync();
             }
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VUzRA7WmAq8q/WXp9aDBMqTpjCa+kWvp0YA2TYkHPlYqwbVJExU5YLtCC9gk0/a5elMVOQ45toadVU6/oP/99Q==",
+  "dgSpecHash": "TOEajK0YSiPqrrCqSfE7loSU6xA2/LN2/60OktqsFHu4mGXsIlrVieVqgCZJiI//lIJbsSAKU7j3Bbh+rXe6iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\abdul\\source\\repos\\SellingProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
   "expectedPackageFiles": [

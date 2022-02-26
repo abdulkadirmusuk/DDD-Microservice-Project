@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yUhqwhcAIrw9R8F+fWS4o0nFj8jXB+k6Blb6sCRJJ5n7fr8DtBA0czXhYaSIKWvO7JYK89AhVc5AnA86l9RsZA==",
+  "dgSpecHash": "Z9YiJh5KMqdQ69gGxgv+E55TsGoYRp8eg/se1HU02UtWOnHNpHcStJmkL2oY8THGsqS32oKVDpCY2ZsxlI+Cfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\abdul\\source\\repos\\SellingProject\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

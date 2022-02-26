@@ -29,9 +29,10 @@ namespace EventBus.Base.Event
                 eventName = eventName.TrimStart(EventBusConfig.EventNamePrefix.ToArray());
 
             if (EventBusConfig.DeleteEventSuffix)
-                eventName = eventName.TrimStart(EventBusConfig.EventNameSuffix.ToArray());
+                //eventName = eventName.TrimStart(EventBusConfig.EventNameSuffix.ToArray());
+                eventName = eventName.Replace(EventBusConfig.EventNameSuffix, "");
 
-            return eventName;
+                return eventName;
         }
 
         public virtual string GetSubName(string eventName)

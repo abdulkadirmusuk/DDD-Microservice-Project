@@ -12,6 +12,7 @@ namespace EventBus.Base.Event
         [JsonProperty]
         public DateTime CreatedDate { get; private set; }
 
+
         public IntegrationEvent()
         {
             Id = Guid.NewGuid();

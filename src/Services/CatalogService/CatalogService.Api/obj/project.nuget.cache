@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1YbWD+ygminVhwmZ9Gc/vowOdf1VJ9qg10RP8yR3ghCQCpLaL8OnGycVWDazh/HfQwP5kccUPMrf5Rz8mFS//g==",
+  "dgSpecHash": "zCI9YPKxctNXu7mBY/KtbrlMIdR7SGsaJ2wexaYJLh11x7/ZIYb7d1aJnZHI9qjuEacpLSizIqQHPk4VMkyFFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\abdul\\source\\repos\\SellingProject\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
   "expectedPackageFiles": [
@@ -109,7 +109,8 @@
     "C:\\Users\\abdul\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\abdul\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\abdul\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\abdul\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\abdul\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

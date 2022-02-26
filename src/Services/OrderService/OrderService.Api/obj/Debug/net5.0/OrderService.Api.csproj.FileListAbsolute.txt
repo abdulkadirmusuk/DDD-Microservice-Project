@@ -11,6 +11,7 @@ C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderServic
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\obj\Debug\net5.0\OrderService.Api.csproj.AssemblyReference.cache
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\obj\Debug\net5.0\OrderService.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\obj\Debug\net5.0\OrderService.Api.AssemblyInfoInputs.cache
 C:\Users\abdul\source\repos\SellingProject\src\Services\OrderService\OrderService.Api\obj\Debug\net5.0\OrderService.Api.AssemblyInfo.cs
